@@ -24,9 +24,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@bitFez](https://medium.com/@bitFez)
 
-### Blogs posts
+### 📚 Latest Medium Story
 <!-- BLOG-POST-LIST:START -->
-http://medium.com/feed/@bitFez
 <!-- BLOG-POST-LIST:END -->
 
 
