@@ -25,7 +25,13 @@
 - 📝 I regularly write articles on [https://medium.com/@bitFez](https://medium.com/@bitFez)
 
 ### 📚 Latest Medium Story
-<!-- MEDIUM-STORY-LIST:START --> <!-- MEDIUM-STORY-LIST:END -->
+<!-- MEDIUM-STORY-LIST:START -->
+- [The Definition of backend &lpar;for the non-technical&rpar;](https://medium.com/@bitFez/the-definition-of-backend-for-the-non-technical-68502129e365?source=rss-e3fd5d9d9aa------2)
+- [Django &amp; Markdown Part 2 &lpar;installing an editor&rpar;](https://blog.devgenius.io/django-markdown-part-2-installing-an-editor-ff32aadc49d2?source=rss-e3fd5d9d9aa------2)
+- [Django &amp; Markdown Part 1 &lpar;rendering it&rpar;](https://blog.devgenius.io/django-markdown-part-1-rendering-it-b61cbcbc833e?source=rss-e3fd5d9d9aa------2)
+- [Django and HTMX Part 2 &lpar;periodic refreshing&rpar;](https://blog.devgenius.io/django-and-htmx-part-2-periodic-refreshing-768cc059a06d?source=rss-e3fd5d9d9aa------2)
+- [Django and HTMX Part 1 &lpar;Page no-refresh like button&rpar;](https://blog.devgenius.io/django-and-htmx-part-1-ff629ae048f1?source=rss-e3fd5d9d9aa------2)
+<!-- MEDIUM-STORY-LIST:END -->
 
 
  <table align="center" >
