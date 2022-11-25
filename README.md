@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hello Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3 align ="center"> <strong> I am a Computer Science teacher always looking to learn something new. </strong> </h3>
+<h3 align ="center"> <strong> I am a developer always looking to learn something new. </strong> </h3>
 <p >
 <a href="https://www.github.com/bitfez/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
