@@ -3,14 +3,11 @@
 <h3 align ="center"> <strong> I am a developer always looking to learn something new. </strong> </h3>
 <p >
 <a href="https://www.github.com/bitfez/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ali-mulla-608a6621/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
- 
-
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:)
 ![](https://komarev.com/ghpvc/?username=bitfez&color=yellow)
@@ -138,8 +135,8 @@
 <a href="https://github.com/OpenMosqueProject/open_mosque_dynamic_django_website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenMosqueProject&theme=react&repo=open_mosque_dynamic_django_website" />
 </a>
-<a href="https://github.com/BethsGrammar/cs_society_website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BethsGrammar&theme=react&repo=cs_society_website" />
+<a href="https://github.com/bitFez/Darbuka_Django_Babadum_Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitfez&theme=react&repo=Darbuka_Django_Babadum_Clone" />
 </a>
  <a href="https://github.com/bitFez/kelepir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitFez&theme=react&repo=kelepir" />
