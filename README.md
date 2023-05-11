@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:)
 ![](https://komarev.com/ghpvc/?username=bitfez&color=yellow)
 
-<h4>Hi I am Ali 🧔, a Computer Science Teacher from the UK. I am a Self-taught software Developer who loves to dabble with new technologies in my spare time. My passion has been learning Python and backend development in Django. Along the way I have also enjoyed learning Javascript & Flutter. <h4>
+<h4>Hi I am Ali 🧔, a Scrum Master & ex-Computer Science teacher who loves to code from the UK. I am a Self-taught software Developer who loves to dabble with new technologies in my spare time. My passion has been learning Python and backend development in Django. Along the way I have also enjoyed learning Javascript & Flutter. <h4>
 
 
 - 🌱 I’m currently learning **how to flutter**
