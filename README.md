@@ -132,7 +132,10 @@
 
  
 <h2> My Projects 📁</h2>
-<a href="https://github.com/OpenMosqueProject/open_mosque_dynamic_django_website">
+ <a href="https://github.com/bitFez/oneshot_wordle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitFez&theme=react&repo=oneshot_wordle" />
+</a>
+  <a href="https://github.com/OpenMosqueProject/open_mosque_dynamic_django_website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenMosqueProject&theme=react&repo=open_mosque_dynamic_django_website" />
 </a>
 <a href="https://github.com/bitFez/Darbuka_Django_Babadum_Clone">
