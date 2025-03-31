@@ -60,7 +60,7 @@
          <br> Flutter
      </td> 
      <td align="center">
-      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
       <br>Bootstrap
     </td>
      <td align="center">
@@ -77,9 +77,9 @@
      </td> 
    </tr>
    <tr>
-          <td align="center">
-       <img alt="bulma" height=64px src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg">
-       <br> Bulma
+      <td align="center">
+       <img alt="tailwind css" height=64px src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
+       <br> Tailwind CSS
      </td> 
      <td align="center">
        <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
@@ -106,8 +106,8 @@
        <br> PostgreSQL
      </td>  
     <td align="center">
-       <img alt="wordpress" height=64px src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-       <br> WordPress
+       <img alt="wordpress" height=64px src="https://github.com/devicons/devicon/blob/master/icons/jekyll/jekyll-original.svg"> 
+       <br> Jekyll
      </td> 
      <td align="center">
        <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
