@@ -10,8 +10,14 @@ jobs:
     name: Update this repo's README with latest Medium post
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Update README with Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "MEDIUM-STORY-LIST"
           feed_list: "https://medium.com/feed/@bitFez"
+          # Optional: Add these if you're having issues
+          # max_post_count: 5  # Limits number of posts to add
+          # gh_token: ${{ secrets.GITHUB_TOKEN }}  # Explicitly pass the token
