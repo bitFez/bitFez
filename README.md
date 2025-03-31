@@ -1,18 +1,10 @@
 
 <h1 align="center"> Hello Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align ="center"> <strong> I am a developer always looking to learn something new. </strong> </h3>
-<p >
-<a href="https://www.github.com/bitfez/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ali-mulla-608a6621/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:)
-![](https://komarev.com/ghpvc/?username=bitfez&color=yellow)
+[![GitHub followers](https://img.shields.io/github/followers/bitfez?style=plastic&logo=github)](https://github.com/bitfez) [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:learnictweb@gmail.com) ![](https://komarev.com/ghpvc/?username=bitfez&color=yellow)
 
-<h4>Hi I am Ali 🧔, a Scrum Master & ex-Computer Science teacher who loves to code from the UK. I am a Self-taught software Developer who loves to dabble with new technologies in my spare time. My passion has been learning Python and backend development in Django. Along the way I have also enjoyed learning Javascript & Flutter. <h4>
+<h4>Hi I am Ali 🧔, a Computer Science teacher, developer & scrum master who loves to code from the UK. I am a Self-taught software Developer who loves to dabble with new technologies in my spare time. My passion has been learning Python and backend development in Django. Along the way I have also enjoyed learning Javascript & Flutter. <h4>
 
 
 - 🌱 I’m currently learning **how to flutter**
